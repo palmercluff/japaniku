@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Welcome to Japaniku! This blog's purpose is to share my Japan adventures, and also help you start your own Japan adventures!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I've lived in 6 different places in Japan, and consider myself a seasoned traveler of the Land of the Rising Sun. All photography and other content is my original work.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<img src="{{ "/images/gate-and-lantern.jpg" | prepend: site.baseurl }}" style="width:100%" />
+
+Enjoy!
